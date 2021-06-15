@@ -10,7 +10,7 @@ public class App
 
     private final String message1="Changes made in the string!!!";
 
-    private final String msg="Editing code to test in jenkins **!";
+    private final String msg="Editing code to test in jenkins **###!";
 
 
     public App() {}
